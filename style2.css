@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(/img/20251005_1111_Capsule\ Corp\ em\ Construção_simple_compose_01k6tb9v03fzn8eyrxqyjx8dvh.png);
+    background-image: url(img/20251005_1111_Capsule\ Corp\ em\ Construção_simple_compose_01k6tb9v03fzn8eyrxqyjx8dvh.png);
     background-color: #113754;
     background-attachment: fixed;
     background-size: cover;
@@ -16,7 +16,7 @@ body {
 
 @font-face {
     font-family: 'Russo';
-    src: url(/Fontes/RussoOne-Regular.ttf);
+    src: url(Fontes/RussoOne-Regular.ttf);
     font-weight: normal;
     font-style: normal;
 }
