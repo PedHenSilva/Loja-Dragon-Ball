@@ -103,7 +103,6 @@ header {
     justify-content: center;
     align-items: inherit;
 }
-
 .menu nav {
     display: inherit;
     gap: 42px;
@@ -222,7 +221,7 @@ header {
     font-weight: 50;
     text-shadow: 1px 1px 8px Rgba(194, 87, 0, 0.712);
     text-align: justify;
-    padding: 40px 40px 0 40px;
+    padding: 40px 40px 0 40px
 }
 
 /* Footer */
@@ -290,5 +289,4 @@ header {
 
 .logos img:hover {
     transform: scale(1.1);
-
 }

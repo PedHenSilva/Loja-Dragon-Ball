@@ -102,7 +102,6 @@ header {
     justify-content: center;
     align-items: inherit;
 }
-
 .menu nav {
     display: inherit;
     gap: 42px;
@@ -193,6 +192,13 @@ header {
     object-fit: inherit;
     height: auto;
     max-height: 550px;
+}
+
+/* Divisor Shenlong */
+
+.container-fluid-cards .seção-card img {
+    max-width: 200px;
+    width: 100%;
 }
 
 /* Footer */
