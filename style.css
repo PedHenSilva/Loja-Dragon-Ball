@@ -102,6 +102,7 @@ header {
     justify-content: center;
     align-items: inherit;
 }
+
 .menu nav {
     display: inherit;
     gap: 42px;
@@ -258,4 +259,5 @@ header {
 .logos img:hover {
     transform: scale(1.1);
 }
+
 
